@@ -2,13 +2,13 @@
 senha = input ("Password: ")
 
 #SENHA
-while senha != "python123" :
+while senha != "galodoido" :
 
 #CONDIÇÃO
 
-    print ("Acesso negado")
+    print ("SENHA INCORRETA")
     senha = input ("Tente novamente: ") 
 
 #MENSAGEM FINAL
 
-print ("Acesso liberado")
+print ("Acesso liberado, AQUI É GALO! ")
